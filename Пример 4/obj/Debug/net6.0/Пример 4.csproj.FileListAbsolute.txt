@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\Все уроки\Семинар 30.09\Пример 4\bin\Debug\net6.0\Пример 4.exe
+C:\Users\Дмитрий\Desktop\Все уроки\Семинар 30.09\Пример 4\bin\Debug\net6.0\Пример 4.deps.json
+C:\Users\Дмитрий\Desktop\Все уроки\Семинар 30.09\Пример 4\bin\Debug\net6.0\Пример 4.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\Все уроки\Семинар 30.09\Пример 4\bin\Debug\net6.0\Пример 4.dll
+C:\Users\Дмитрий\Desktop\Все уроки\Семинар 30.09\Пример 4\bin\Debug\net6.0\Пример 4.pdb
+C:\Users\Дмитрий\Desktop\Все уроки\Семинар 30.09\Пример 4\obj\Debug\net6.0\Пример 4.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Все уроки\Семинар 30.09\Пример 4\obj\Debug\net6.0\Пример 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\Все уроки\Семинар 30.09\Пример 4\obj\Debug\net6.0\Пример 4.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\Все уроки\Семинар 30.09\Пример 4\obj\Debug\net6.0\Пример 4.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Все уроки\Семинар 30.09\Пример 4\obj\Debug\net6.0\Пример 4.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Все уроки\Семинар 30.09\Пример 4\obj\Debug\net6.0\Пример 4.dll
+C:\Users\Дмитрий\Desktop\Все уроки\Семинар 30.09\Пример 4\obj\Debug\net6.0\refint\Пример 4.dll
+C:\Users\Дмитрий\Desktop\Все уроки\Семинар 30.09\Пример 4\obj\Debug\net6.0\Пример 4.pdb
+C:\Users\Дмитрий\Desktop\Все уроки\Семинар 30.09\Пример 4\obj\Debug\net6.0\Пример 4.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\Все уроки\Семинар 30.09\Пример 4\obj\Debug\net6.0\ref\Пример 4.dll
